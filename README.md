@@ -17,7 +17,7 @@ Add Discount Code with Horizontal Drag button(shop_screen class)
 Clean Design(UI/UX)
 
 
-#Technologies:
+# Technologies:
 
   cupertino_icons: ^1.0.6
 
