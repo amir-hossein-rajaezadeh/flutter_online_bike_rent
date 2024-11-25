@@ -19,13 +19,21 @@ Clean Design(UI/UX)
 Technologies:
 
   cupertino_icons: ^1.0.6
+
   flutter_bloc: ^8.1.6
+  
   go_router: ^14.3.0
+  
   carousel_slider: ^5.0.0
+  
   equatable: ^2.0.5
+  
   google_fonts: ^6.2.1
+  
   flutter_svg: ^2.0.10+1
+  
   lottie: ^3.1.3
+
 
 If you like it, Please Star the project⭐️ 
 It motivates me a lot ❤️
